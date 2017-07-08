@@ -187,3 +187,8 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/NazoBrain/dic/ipadic/unk.dic
+/NazoBrain/dic/ipadic/sys.dic
+/NazoBrain/dic/ipadic/matrix.bin
+/NazoBrain/dic/ipadic/dicrc
+/NazoBrain/dic/ipadic/char.bin
